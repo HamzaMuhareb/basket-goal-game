@@ -10,9 +10,9 @@ this game is a cli copy of the [original game] (https://www.gamepix.com/play/bas
 
 which contains all the classes that related to to the actions of the game 
 
-and a class that contains a helper functions
+and a class that contains a **helper functions**
 
-and a class named gamesolver that contains algorithms like bfs and dfs and astar to make the computer solve the game 
+and a class named **gamesolver** that contains algorithms like bfs and dfs and astar to make the computer solve the game 
 
 ### src/structures 
 
