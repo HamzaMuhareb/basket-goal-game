@@ -2,7 +2,7 @@
 
 ## source:
 
-this game is a cli copy of the [original game] (https://www.gamepix.com/play/basket-goal)
+this game is a cli copy of the [original game](https://www.gamepix.com/play/basket-goal)
 
 ## main files:
 
